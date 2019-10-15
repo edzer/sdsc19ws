@@ -25,6 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * [slides](https://edzer.github.io/sdsc19ws/)
 * [github source repo](https://github.com/edzer/sdsc19ws): markdown sources, solutions to exercises
+* 1-day (full day) workshop, on Thu, Oct 17: [link](https://www.tickettailor.com/events/landeranalytics/296629), few seats still available
 
 ### Packages needed:
 
