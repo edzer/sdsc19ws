@@ -21,6 +21,27 @@ All the material presented here, to the extent it is original, is available unde
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+### Links:
+
+* [slides](https://edzer.github.io/sdsc19ws/)
+* [github source repo](https://github.com/edzer/sdsc19ws): markdown sources, solutions to exercises
+
+### Packages needed:
+
+* sf
+* stars
+* gstat
+* units
+* tidyverse
+* xts
+* viridis
+* abind
+
+all of them are installed by
+```
+install.packages(c("sf", "stars", "gstat", "units", "tidyverse", "xts", "viridis", "abind"))
+```
+
 ## Parts:
 
 * A. Spatial data, simple features (20' + 10' exercises)
