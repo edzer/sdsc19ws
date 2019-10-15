@@ -13,6 +13,8 @@ bibliography: sdsc19.bib
 link-citations: yes
 ---
 
+## https://edzer.github.io/sdsc19ws/
+
 ### Copyright
 
 All the material presented here, to the extent it is original, is available under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/).
